@@ -1,0 +1,17 @@
+<html>
+<head>
+	<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../assets/css/event_calendar.css">
+</head>
+<body>
+	<div class = "eventcalendar"></div>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="../src/event_calendar.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$(".eventcalendar").eventcalendar({width:570,height:400,month:9,year:2015});
+		});
+	</script>
+</body>
+</html>

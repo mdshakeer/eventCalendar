@@ -7,6 +7,9 @@
     "jquery",
     "eventcalendar",
     "event calendar",
+    "event-calendar",
+    "calendar",
+    "event",
     "event_calendar"
   ],
   "repository": {
@@ -29,5 +32,5 @@
       "url": "https://github.com/mdshakeer"
     }
   ],
-  "license": "N/A"
+  "license": "MIT"
 }
