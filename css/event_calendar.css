@@ -15,9 +15,14 @@
   background-color: #1D9B72;
   padding: 3px 20px;
   padding-bottom: 10px;
+  height: 120%;
 }
 .calenderColor{
   color: #1D9B72;
+}
+.calendarTitle{
+  margin-top: 15px;
+  height: 6%;
 }
 .calendarTitle > div > *{
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
@@ -28,6 +33,10 @@
 }
 .calendarContent{
   background-color: #fff;
+  height: 85%;
+}
+.calendarWeek{
+  height: 8.5%;
 }
 .col-date{
   width: 14.28%;
@@ -38,7 +47,7 @@
 .col-date-content{
   width: 14.28%;
   /*height: 3em;*/
-  height: 18.7%;
+  height: 17.75%;
   display: inline-block;
   border-right: 1px solid #ddd;
   float: left;
