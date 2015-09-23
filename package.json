@@ -1,0 +1,33 @@
+{
+  "name": "eventcalendar",
+  "version": "1.0.0",
+  "description": "JQuery plugin calendar to show events on particular day into your webpage",
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "eventcalendar",
+    "event calendar",
+    "event_calendar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdshakeer/eventCalendar"
+  },
+  "bugs": {
+    "url": "https://github.com/mdshakeer/eventCalendar/issues"
+  },
+  "author": {
+    "name": "Mohammed Shakeer",
+    "email": "mdshakeer91@gmail.com",
+    "url": "https://github.com/mdshakeer"
+  },
+  "homepage": "http://mdshakeer.github.io/eventCalendar/",
+  "contributors": [
+    {
+      "name": "Mohammed Shakeer",
+      "email": "mdshakeer91@gmail.com",
+      "url": "https://github.com/mdshakeer"
+    }
+  ],
+  "license": "N/A"
+}
