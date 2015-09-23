@@ -30,7 +30,7 @@
         	days : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
 			months : ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
 			width: 420,
-			height: 540
+			height: 400
         };
 
     // The actual plugin constructor
